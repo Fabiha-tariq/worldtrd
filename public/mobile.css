@@ -1,0 +1,226 @@
+@media screen and (max-width: 480px) {
+
+    .navbar-toggle {
+        display: none !important;
+    }
+
+
+
+
+
+
+ul.user li.sign-in{
+
+    width: 150px !important;
+}
+
+
+#whatsapp-icon {
+    top: 70% !important;
+}
+ul.user li.sign-in {
+    padding-left: 0 !important;
+    padding-right: 7px !important;
+    float: right !important;
+    margin-top: 0px !important;
+
+}
+.title-head{
+
+    font-size: 35px !important;
+}
+
+.slider-text h3{
+
+font-size: 35px !important;
+
+}
+.slider-text .slide-title{
+
+    font-weight: 400 !important;
+}
+
+.btn-primary{
+
+
+   margin-left: 100px !important;
+}
+
+.pricing-footer{
+left: 30px;
+    width: 300px !important;
+}
+.btn-primary{
+    margin-left: 0 !important;
+      padding-top: 10px !important;
+      padding-bottom: 10px !important;
+      padding-left: 5px !important;
+      padding-right: 5px !important;
+}
+.action-text h2{
+
+    font-size: 20px !important;
+}
+.features-row {
+
+border-radius: 20px!important;
+}
+
+.pricing-wrapper{
+
+    border-radius: 30px !important;
+
+}
+
+
+
+.pricing-wrapper > li{
+
+    border-radius: 30px !important;
+
+}
+
+.img-about-us{
+
+    border-radius: 10px !important ;
+}
+
+.title-head{
+
+    font-weight: 600 !important;
+    font-size: 30px !important;
+}
+
+.footer{
+
+    display: none !important;
+}
+
+
+.call-action-all .call-action-all-overlay{
+
+    display: none !important;
+}
+
+
+
+ul.navbar-nav{
+
+
+    padding: 10px 0px 40px !important;
+}
+
+.navbar-nav {
+    display: block !important;
+}
+
+.main-nav{
+
+    background-color:black !important;
+    border-radius: 50px !important;
+    height: 120px !important;
+    border: 1px solid transparent;
+}
+
+.logo-mobile{
+
+    width: 140px !important;
+
+}
+
+
+#back-to-top{
+    display: none !important;
+}
+
+
+.main-nav{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    z-index: 99;
+}
+
+#mobile-navbar li
+{
+
+display: inline-block !important;
+border-left: 1px solid #fd961a;
+line-height: 2px !important;
+
+
+}
+#mobile-navbar li{
+    text-align: center !important;
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+  padding-top: 8px !important;
+  /* padding-bottom: 5px !important; */
+
+}
+#mobile-navbar li a{
+    font-size: 8px !important;
+    text-align: center !important;
+    padding-left: 3px !important;
+}
+
+#mobile-navbar > li >  img{
+ padding-left: 15px !important;
+
+}
+
+#mobile-navbar > li {
+
+    font-size: 5px !important;
+}
+
+
+#whatsapp-icon{
+top: 60% !important;
+left: 80% !important;
+}
+
+
+.pricing-header p{
+
+    border-radius: 4px !important;
+
+}
+
+.card{
+
+    border-radius: 5px !important;
+}
+
+}
+
+
+
+
+@media screen and (min-width: 1400px) {
+
+   .main-nav {
+        display: none !important;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
